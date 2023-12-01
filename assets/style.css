@@ -16,7 +16,7 @@
 }
 .nav-link:hover{
   color: white;
-  background-color: black;
+  background-color: rgb(7, 43, 16);
 }
 .navbar-brand{
 
@@ -63,6 +63,4 @@
   font-weight: bold;
   border-radius: 5px;
 }
-.main .bt1:hover{
-  background-color: rgb(164, 206, 230);
-}
+
