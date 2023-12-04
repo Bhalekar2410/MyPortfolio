@@ -134,3 +134,20 @@ h1{
     width: 55%;
   }
 }
+/* ------------------------------------------------------------------ */
+.btn1{
+  position: relative;
+  height: 40px;
+  width: 395px;
+  outline: none;
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+.btn1:hover{
+  background-color: transparent;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s;
+}
