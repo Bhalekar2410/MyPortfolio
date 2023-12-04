@@ -153,6 +153,7 @@ h1{
 }
 
 /*--------------------- Skills -------------------------*/
-.skills img{
-  position: relative;
+.card:hover{
+  background-color: black;
+  transition: 0.5s;
 }
