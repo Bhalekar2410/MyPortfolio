@@ -151,3 +151,8 @@ h1{
   border: 1px solid black;
   transition: 0.5s;
 }
+
+/*--------------------- Skills -------------------------*/
+.skills img{
+  position: relative;
+}
