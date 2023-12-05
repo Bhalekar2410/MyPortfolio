@@ -158,3 +158,39 @@ h1{
   transition: 0.5s;
   color: white;
 }
+/*--------------------- Volunteering -------------------------*/
+.card1{
+  text-align: justify;
+}
+.card1:hover{
+  background-color: rgb(238, 241, 243);
+  transition: 0.5s;
+  color: black;
+
+
+}
+.card1 ul {
+  list-style-type:circle;
+  padding: 0;
+}
+
+.card1 li {
+  margin-bottom: 10px;
+}
+/*--------------------------- certificates ---------------------*/
+.btn2{
+  position: relative;
+  height: 30px;
+  width: 80px;
+  outline: none;
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+.btn2:hover{
+  background-color: transparent;
+  color: black;
+  border: 1px solid black;
+  transition: 0.5s;
+}
