@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 .navbar{
+  position:static;
   background-color: white;
 }
 .nav-link{
