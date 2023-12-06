@@ -194,3 +194,9 @@ h1{
   border: 1px solid black;
   transition: 0.5s;
 }
+a{
+  width: 6rem;
+  height: fit-content;
+  text-decoration: none;
+  color: rgb(173, 169, 169);
+}
