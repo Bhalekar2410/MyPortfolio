@@ -8,12 +8,13 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.rtl.min.css" integrity="sha384-nU14brUcp6StFntEOOEBvcJm4huWjB0OcIeQ3fltAfSmuZFrkAif0T+UtNGlKKQv" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
     <title>Manisha Bhalekar</title>
   </head>
   <body class="bg-light">
 
     <!-- Nav Bar -->
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-expand-lg bg-black">
       <div class="container">
       <div class="container-fluid">
         
@@ -55,12 +56,22 @@
             <h4><small>Hello I'm </small><br></h4>
             <h3>Manisha</h3>
             <b><h6>Web Devloper</h6></b>
-            <input type="button" value="my work" class="bt1 mt-4 m-lg-4">
-
+            
 
           </div>
 
         </div>
+        <input type="button" value="More.." class="bt1 mt-4 m-lg-4" onclick="openPopup()">
+        <div class="popup" id="popup">
+          <h5>Welcome</h5>
+          <p>As a computer Science Fresher, I am eger to contribute my skills, 
+            learn from experienced professionals, and grow within collaborative team.</p>
+            <p>If you have any web development opportunities or would like to
+               connect for discussions and collaborations, please feel free to contact me at bhalekar2410@gmail.com. 
+              Let's embark on this exciting journey in the sector of web development together!</p>
+              <button type="button" onclick="closePopup()">Ok</button>
+        </div>
+
       </div>
     </section>
     <!--********************** Main section End *****************-->
