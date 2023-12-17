@@ -17,8 +17,9 @@
  - Bootstrap
  
    ## Project Structure 
-   - `/index.html`: The main HTML file containing the structure of the website.
-   - `/css/`: Directory for CSS stylesheets. - `/js/`: Directory for JavaScript files.
+   - `/index.html`/: The main HTML file containing the structure of the website.
+   - `/css/`: Directory for CSS stylesheets. 
+   -  `/js/`: Directory for JavaScript files.
    -  `/assets/`: Directory for any additional assets such as images or icons.
 
     ## Contributing
@@ -27,5 +28,6 @@
    ## Contact
    - LinkedIn: www.linkedin.com/in/manisha-b-981541206
    - Email: bhalekar2410@gmail.com
+   - Portfolio:  https://bhalekar2410.github.io/MyPortfolio/
    
    Thank you for visiting my portfolio repository! Feel free to explore and get in touch. 👋
